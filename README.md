@@ -29,7 +29,7 @@ I'm always open to new opportunities and collaborations. If you're looking for a
 | **Frontend**          | Angular                                     | Used in 5+ projects                               | 8                      |
 |                       | Angular Material                            | Used in 5+ projects                               | 9                      |
 |                       | Tailwind CSS                                | Used in 6+ projects                               | 9                      |
-|                       | SASS                                        | Used in 2+ projects                               | 8                      |
+|                       | SASS                                        | Used in 2+ projects                               | 6                      |
 | **Backend**           | Node.js                                     | Used in 5+ projects                               | 6                      |
 |                       | Express.js                                  | Used in 1 project                                 | 4                      |
 |                       | RESTful APIs                                | Used in multiple projects                         | 4                      |
