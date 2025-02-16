@@ -1,7 +1,3 @@
-Here's a professional GitHub profile description based on your provided information:
-
----
-
 ### Hi, I'm Simon Guth 👋
 
 I'm a 29-year-old Software Developer with a background in Mechanical Engineering. Initially trained as an engineer, I worked at the Fraunhofer Institute and later spent some time as an independent food retailer. However, my true passion has always been software development, which I pursued autodidactically in parallel to my other ventures.
