@@ -12,7 +12,7 @@ I transitioned into the tech world, developing a broad skill set, and now focus 
 - **State Management & Performance Optimization**: Proficient in using **NGRX** for state management, along with techniques like **Lazy Loading**, **Tree Shaking**, and **Code Splitting** to optimize app performance.
 
 ### Current & Future Projects:
-At present, I’m focused on improving my skills in areas like **MySQL**, **API design (OpenAPI)**, and **Python**. I'm also expanding my knowledge in **Monorepos (NX)** and diving deeper into cloud-native applications using tools like **Firebase** and **Serverless Architectures**.
+At present, I’m focused on improving my skills in areas like **Docker**, **OpenAPI / SwaggerUI**, and **Python**. I'm also expanding my knowledge in **Monorepos (NX)** and diving deeper into cloud-native applications using tools like **Firebase** and **Serverless Architectures**.
 
 My goal for the next two years is to transform my freelance work into a full-fledged business by founding my own **web development agency**, where I can help clients build tailored web solutions.
 
